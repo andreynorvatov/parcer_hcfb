@@ -1,0 +1,760 @@
+ScanServerStorageWSEndpoint#findOrCreateDocumentByObjectNoRequest
+83.1 K
+CustomerWSEndpoint#getCustomerDataRequest
+43.3 K
+ClientWSEndpoint#getFlagsRequest
+38.4 K
+ScanServerStorageWSEndpoint#findAllDocumentsRequest
+35.2 K
+CreditCardWSEndpoint#getCreditCardsRequest
+17.0 K
+ScanServerStorageWSEndpoint#findDocumentByObjectNoRequest
+16.1 K
+CustomerUpdateWSEndpoint#confirmCustomerUpdateRequest
+14.9 K
+ProductWSEndpoint#getProductIdentityCardsRequest
+10.4 K
+ContractApplicationWSEndpoint#getExtendedQuickNoResultRequest
+10.1 K
+ContractApplicationWSEndpoint#recalcExtendedQuickNoResultRequest
+9.18 K
+ClientCreditsWSEndpoint#getClientCreditContractsRequest
+8.96 K
+CardWSEndpoint#getClientCreditCardContractsRequest
+8.93 K
+ContractWSEndpoint#getContractRequest
+8.73 K
+InstalmentScheduleWSEndpoint#getInstalmentScheduleRequest
+7.71 K
+ExactWSEndpoint#setConfirmPersonalDetailsUpdateRequest
+6.11 K
+ContractOffersWSEndpoint#getClientPreferencesRequest
+5.95 K
+ExactWSEndpoint#getNextMethodsRequest
+5.66 K
+ExactWSEndpoint#getDebtsRequest
+5.66 K
+ExactWSEndpoint#getStatusHistoryRequest
+5.66 K
+ExactWSEndpoint#getCallResultsRequest
+5.66 K
+ExactWSEndpoint#getCallEventsRequest
+5.66 K
+ExactWSEndpoint#getMethodResultHistoryRequest
+5.66 K
+ExactWSEndpoint#getBlockHistoryRequest
+5.66 K
+ExactWSEndpoint#getEmployerContactsRequest
+5.66 K
+ExactWSEndpoint#getBlankHistoryRequest
+5.65 K
+ExactWSEndpoint#getMethodHistoryRequest
+5.65 K
+ExactWSEndpoint#getMethodsRequest
+5.65 K
+ExactWSEndpoint#isFinProtectRequest
+5.65 K
+ExactWSEndpoint#isInsuredRequest
+5.65 K
+ExactWSEndpoint#getLastPhoneTypeRequest
+5.65 K
+ExactWSEndpoint#getPersonTimeZoneRequest
+5.65 K
+ExactWSEndpoint#getTemplatesRequest
+5.65 K
+ExactWSEndpoint#getRecoveriesRequest
+5.64 K
+ExactWSEndpoint#getClientContactsRequest
+5.64 K
+ExactWSEndpoint#getMethodAssignHistoryRequest
+5.64 K
+ExactWSEndpoint#isDebtRestructuringAllowedRequest
+5.64 K
+CustomerWSEndpoint#getCustomerRequest
+4.98 K
+InformingServiceWSEndpoint#getServiceInfoRequest
+4.84 K
+ClientCreditsWSEndpoint#getClientCreditsRequest
+4.70 K
+CustomerWSEndpoint#getCustomerAllMobileContactsRequest
+3.67 K
+CustomerWSEndpoint#setCustomerDataShortRequest
+3.66 K
+AddressWSEndpoint#validateAddress
+3.53 K
+CustomerWSEndpoint#setCustomerDataRequest
+3.46 K
+ExactWSEndpoint#getPersonCreditsCountInExactRequest
+3.30 K
+ExactWSEndpoint#getPaymentHistoryRequest
+3.30 K
+ClientWSEndpoint#searchClientsRequest
+2.88 K
+ContractWSEndpoint#searchContractsLiteRequest
+2.78 K
+InsuranceContractWSEndpoint#SearchInsuranceContractRequest
+2.69 K
+ServiceSupplementsWSEndpoint#getIncludedServicesByContractRequest
+2.50 K
+BenefitWSEndpoint#getActionsRequest
+2.42 K
+AddressWSEndpoint#getKLADRTypes
+2.40 K
+ExactWSEndpoint#saveCallResultRequest
+2.36 K
+ExactWSEndpoint#getGoodsListRequest
+2.32 K
+ScanServerStorageWSEndpoint#createPageRequest
+2.29 K
+ContractWSEndpoint#getContractsForReSignRequest
+2.07 K
+ContractWSEndpoint#getContractServicesAvailabilityRequest
+2.01 K
+ContractWSEndpoint#getCustomerFinancialStatusRequest
+1.89 K
+SellerplaceWSEndpoint#getSellerplaceRequest
+1.89 K
+ClientWSEndpoint#getClientInfoByPassportRequest
+1.87 K
+AdmWSEndpoint#findEmployeeById
+1.85 K
+ContractApplicationWSEndpoint#getInactiveExtQNRequest
+1.85 K
+CustomerUpdWSEndpoint#notifyCustomerUpdRequest
+1.81 K
+ContractAppendixWSEndpoint#getAppendixesRequest
+1.68 K
+ProductWSEndpoint#getClientOfferedProductsRequest
+1.66 K
+ArchiveWSEndpoint#getArchiveCreditRequest
+1.64 K
+ProductWSEndpoint#getProductFeesRequest
+1.37 K
+CustomerWSEndpoint#identifyCustomerShortRequest
+1.25 K
+PrintServerBridgeWSEndpoint#storeRequest
+1.20 K
+ContractApplicationWSEndpoint#doExtendedQuickNoRequest
+1.17 K
+ClientWSEndpoint#getClientInfoByCUIDRequest
+1.11 K
+ContractWSEndpoint#getAllOnlineCreditInsuranceRequest
+1.10 K
+InsuranceProductWSEndpoint#GetInsuranceProgramsRequest
+1.04 K
+CustomerWSEndpoint#setDocumentsRequest
+997
+ProductWSEndpoint#getProductCalculationRequest
+967
+ContractApplicationWSEndpoint#proceedExtendedQNRequest
+960
+ExactWSEndpoint#findRecoveriesRequest
+949
+AddressWSEndpoint#getHistoricalAddresses
+900
+ContractApplicationWSEndpoint#createContractRequest
+885
+CustomerWSEndpoint#setCustomerDataQuick2Request
+873
+ServiceSupplementsWSEndpoint#getProductServicesbyContractRequest
+854
+CustomerWSEndpoint#getCustomerShortRequest
+836
+ProductWSEndpoint#getOffersForLimitChangeRequest
+810
+ContractReportWSEndpoint#getAvailableReportTypesRequest
+788
+EventWSEndpoint#createEventRequest
+765
+PosOnlineContractWSEndpoint#insertContractFlagsRequest
+751
+ContractWSEndpoint#getContractByCuidRequest
+750
+ClientWSEndpoint#searchClientRequest
+739
+SmartDataContractWSEndpoint#createContractRequest
+725
+ContractReportWSEndpoint#printReportsRequest
+699
+ContractWSEndpoint#getContractDetailByCuidRequest
+665
+ScanServerStorageWSEndpoint#findOrUploadImageByPageIdRequest
+556
+ProductWSEndpoint#getProductDetailByContractRequest
+498
+CreditCardWSEndpoint#getCreditCardDetailRequest
+480
+MonitoringWSEndpoint#SenderConnectionsInPoolRequest
+466
+MonitoringWSEndpoint#SenderMaxConnectionsRequest
+465
+CardWSEndpoint#searchCardTypeDetailsRequest
+435
+InformingServiceWSEndpoint#getInfoServiceHistoryRequest
+411
+ProductWSEndpoint#searchAvailableProductsCbV3Request
+369
+ExactWSEndpoint#getRegisterRequest
+360
+CreditWSEndpoint#getCreditsRequest
+353
+PrintServerBridgeWSEndpoint#printRequest
+350
+EventWSEndpoint#searchEventsRequest
+346
+AddressWSEndpoint#getKLADREntities
+345
+CardWSEndpoint#checkCardRequest
+337
+PCUrlWSEndpoint#getURLRequest
+335
+ContractWSEndpoint#getContractsReSignedRequest
+334
+CardWSEndpoint#getFeesRequest
+325
+InsuranceContractWSEndpoint#GetReportTypesForPrintExtendedRequest
+307
+ProductWSEndpoint#getChannelDocumentsRequest
+281
+ServiceSupplementsWSEndpoint#getAllServicesRequest
+275
+ContractWSEndpoint#setRepaymentMethodRequest
+264
+ContractWSEndpoint#signContractRequest
+231
+ContractApplicationWSEndpoint#proceedExtendedQNWithIncomeRequest
+221
+AgreementWSEndpoint#getPersonAccountNumberList
+204
+ScanServerStorageWSEndpoint#findAllDocumentsByObjectNoRequest
+203
+ContractWSEndpoint#getContractAggregateInfoRequest
+199
+ContractPaymentWSEndpoint#checkContractForRepaymentRequest
+188
+ContractApplicationWSEndpoint#getScanCopyStatusRequest
+184
+InsuranceProductWSEndpoint#SearchAvailableInsuranceProductsRequest
+183
+ContractApplicationWSEndpoint#getIncomeConfirmationRequest
+180
+ContractWSEndpoint#getOnlineCreditContractRequest
+177
+ProductWSEndpoint#getProductSignRequest
+174
+ContractWSEndpoint#getInsuranceRequest
+172
+ContractOffersWSEndpoint#setClientPreferencesRequest
+143
+ContractApplicationWSEndpoint#checkAvailablePosOnRDRequest
+131
+ContractPaymentWSEndpoint#checkPaymentDateRequest
+131
+ContractWSEndpoint#setExpeditorAsCurrentUserRequest
+129
+ScanServerStorageWSEndpoint#getDocumentRequest
+114
+ContractApplicationWSEndpoint#setNamedCardDeliveryAddressRequest
+108
+ProductGiftWSEndpoint#getGiftRefuseInfoRequest
+106
+ContractWSEndpoint#setNoNameCardRequest
+99
+ContractApplicationWSEndpoint#searchOriginatorsRequest
+96
+AddressWSEndpoint#getAddresses
+84
+AdmWSEndpoint#storeAllowedTerritories
+80
+AdmWSEndpoint#setHasAdditionalTerritories
+76
+AdmWSEndpoint#removeEmployeeFromSellerplace
+70
+AdmWSEndpoint#assignEmployeeToSellerplace
+68
+CardWSEndpoint#setFeesRequest
+64
+ContractPaymentWSEndpoint#calculateContractRepaymentRequest
+64
+ContractPaymentWSEndpoint#confirmContractRepaymentNotificationRequest
+64
+CustomerWSEndpoint#setCustomerDataQuickRequest
+64
+ContractApplicationWSEndpoint#setNextApprovalStageRequest
+60
+ContractWSEndpoint#prepareProcessedDuplicatesRequest
+60
+ContractWSEndpoint#runSaveDuplicatesRequest
+57
+CustomerWSEndpoint#getCustomerMobileContactsRequest
+57
+AdmWSEndpoint#getAllowedTerritoriesForTree
+52
+AdmWSEndpoint#getEmployeeSimpleByFilter
+49
+ExternalInsuranceWSEndpoint#searchInsuranceLinksRequest
+49
+ContractApplicationWSEndpoint#proceedContractRequest
+46
+ContractAppendixWSEndpoint#searchContractsRequest
+40
+InsuranceProductWSEndpoint#GetInsuranceProductDetailRequest
+34
+ProductWSEndpoint#getChannelDetailRequest
+29
+AdmWSEndpoint#generateNewPassword
+27
+AddressWSEndpoint#getCountries
+25
+InformingServiceWSEndpoint#manageInfoServiceRequest
+25
+ScanServerStorageWSEndpoint#setStorageDurationRequest
+25
+CardWSEndpoint#processChangeBalanceResultsRequest
+24
+InsuranceContractWSEndpoint#CreateInsuranceApplicationRequest
+22
+CardWSEndpoint#sendChangeBalancesRequest
+20
+CustomerWSEndpoint#getCustomerQuickRequest
+20
+ExactWSEndpoint#getCallResultsMatrixRequest
+18
+ExactWSEndpoint#getOperatorRightsRequest
+18
+ExactWSEndpoint#getOperatorsRequest
+18
+InsuranceContractWSEndpoint#SignInsuranceContractRequest
+18
+AdmWSEndpoint#updateEmployee
+16
+ContractWSEndpoint#getContractFlagHistoryRequest
+15
+CardWSEndpoint#personalizeNNCardsRequest
+12
+CardWSEndpoint#sendStatusChangesToTWRequest
+12
+ContractWSEndpoint#getPartnerProductRequest
+12
+GoodsWSEndpoint#changeAllGoodsPaymentStateRequest
+12
+ScanServerStorageWSEndpoint#updateObjectNoRequest
+12
+SupplementWSEndpoint#searchSupplementsRequest
+12
+ProductWSEndpoint#searchChannelsRequest
+11
+ContractStatementWSEndpoint#getStatementSetupRequest
+10
+AdmWSEndpoint#getNewUserName
+9
+AdmWSEndpoint#insertEmployee
+9
+CustomerWSEndpoint#getCustomerContactsRequest
+9
+ContractWSEndpoint#getContractRepaymentTypesRequest
+7
+UserWSEndpoint#searchUsersRequest
+7
+AddressWSEndpoint#getAddressByTaxCode
+6
+ExactWSEndpoint#getBatchTypesRequest
+6
+ExactWSEndpoint#getExactCreditTypesRequest
+6
+ExactWSEndpoint#getTerritoriesRequest
+6
+ContractApplicationWSEndpoint#getExtQNByUserRequest
+5
+ContractWSEndpoint#insertContractFlagRequest
+5
+ScanServerStorageWSEndpoint#getAllDocTypeRequest
+4
+ContractWSEndpoint#set2NdBlockFilledRequest
+3
+CloseRdApplicationWSEndpoint#RunCloseContractJobRequest
+2
+PosOnlineContractWSEndpoint#createContractRequest
+2
+TopUpWSEndpoint#runDecreaseLimitJobRequest
+1
+UserWSEndpoint#searchUsersRequest
+20 ms	71 ms	41.3 ms
+TopUpWSEndpoint#runDecreaseLimitJobRequest
+10 ms	10 ms	10 ms
+SupplementWSEndpoint#searchSupplementsRequest
+7 ms	417 ms	118 ms
+SmartDataContractWSEndpoint#createContractRequest
+26.9 s	48.8 s	34.6 s
+ServiceSupplementsWSEndpoint#getProductServicesbyContractRequest
+51.7 ms	598 ms	214 ms
+ServiceSupplementsWSEndpoint#getIncludedServicesByContractRequest
+27.3 ms	271 ms	70.7 ms
+ServiceSupplementsWSEndpoint#getAllServicesRequest
+7 ms	896 ms	34.7 ms
+SellerplaceWSEndpoint#getSellerplaceRequest
+96 ms	409 ms	240 ms
+ScanServerStorageWSEndpoint#updateObjectNoRequest
+23 ms	69 ms	41 ms
+ScanServerStorageWSEndpoint#setStorageDurationRequest
+5 ms	56 ms	15.9 ms
+ScanServerStorageWSEndpoint#getDocumentRequest
+7 ms	53.5 ms	16.8 ms
+ScanServerStorageWSEndpoint#getAllDocTypeRequest
+11 ms	18 ms	14.5 ms
+ScanServerStorageWSEndpoint#findOrUploadImageByPageIdRequest
+25.8 ms	5.75 s	215 ms
+ScanServerStorageWSEndpoint#findOrCreateDocumentByObjectNoRequest
+7 ms	62 ms	31.3 ms
+ScanServerStorageWSEndpoint#findDocumentByObjectNoRequest
+6 ms	10 ms	7.85 ms
+ScanServerStorageWSEndpoint#findAllDocumentsRequest
+10 ms	34.5 ms	18.2 ms
+ScanServerStorageWSEndpoint#findAllDocumentsByObjectNoRequest
+3 ms	40.8 ms	12.9 ms
+ScanServerStorageWSEndpoint#createPageRequest
+8.90 ms	65.3 ms	20.2 ms
+ProductWSEndpoint#searchChannelsRequest
+10 ms	184 ms	44.7 ms
+ProductWSEndpoint#searchAvailableProductsCbV3Request
+1.11 s	5.47 s	2.43 s
+ProductWSEndpoint#getProductSignRequest
+8 ms	36.0 ms	17.3 ms
+ProductWSEndpoint#getProductIdentityCardsRequest
+13 ms	85.2 ms	25.0 ms
+ProductWSEndpoint#getProductFeesRequest
+60 ms	171 ms	83.2 ms
+ProductWSEndpoint#getProductDetailByContractRequest
+15 ms	181 ms	54.2 ms
+ProductWSEndpoint#getProductCalculationRequest
+145 ms	564 ms	357 ms
+ProductWSEndpoint#getOffersForLimitChangeRequest
+115 ms	918 ms	308 ms
+ProductWSEndpoint#getClientOfferedProductsRequest
+213 ms	828 ms	470 ms
+ProductWSEndpoint#getChannelDocumentsRequest
+70 ms	268 ms	109 ms
+ProductWSEndpoint#getChannelDetailRequest
+381 ms	381 ms	381 ms
+ProductGiftWSEndpoint#getGiftRefuseInfoRequest
+65 ms	178 ms	99.1 ms
+PrintServerBridgeWSEndpoint#storeRequest
+836 ms	4.52 s	1.62 s
+PrintServerBridgeWSEndpoint#printRequest
+353 ms	5.56 s	1.13 s
+PosOnlineContractWSEndpoint#insertContractFlagsRequest
+41 ms	1.15 s	126 ms
+PosOnlineContractWSEndpoint#createContractRequest
+1.24 s	1.27 s	1.25 s
+PCUrlWSEndpoint#getURLRequest
+184 ms	9.42 s	478 ms
+MonitoringWSEndpoint#SenderMaxConnectionsRequest
+0 µs	700 µs	46.7 µs
+MonitoringWSEndpoint#SenderConnectionsInPoolRequest
+0 µs	700 µs	93.3 µs
+InsuranceProductWSEndpoint#SearchAvailableInsuranceProductsRequest
+8 ms	156 ms	25.0 ms
+InsuranceProductWSEndpoint#GetInsuranceProgramsRequest
+9.60 ms	176 ms	53.1 ms
+InsuranceProductWSEndpoint#GetInsuranceProductDetailRequest
+10 ms	59 ms	21.0 ms
+InsuranceContractWSEndpoint#SignInsuranceContractRequest
+89 ms	9.06 s	1.07 s
+InsuranceContractWSEndpoint#SearchInsuranceContractRequest
+7 ms	90.6 ms	36.4 ms
+InsuranceContractWSEndpoint#GetReportTypesForPrintExtendedRequest
+4 ms	126 ms	36.2 ms
+InsuranceContractWSEndpoint#CreateInsuranceApplicationRequest
+40 ms	214 ms	109 ms
+InstalmentScheduleWSEndpoint#getInstalmentScheduleRequest
+1.32 s	2.24 s	1.66 s
+InformingServiceWSEndpoint#manageInfoServiceRequest
+311 ms	1.68 s	651 ms
+InformingServiceWSEndpoint#getServiceInfoRequest
+31.3 ms	92.4 ms	52.9 ms
+InformingServiceWSEndpoint#getInfoServiceHistoryRequest
+14 ms	134 ms	39.3 ms
+GoodsWSEndpoint#changeAllGoodsPaymentStateRequest
+225 ms	225 ms	225 ms
+ExternalInsuranceWSEndpoint#searchInsuranceLinksRequest
+4 ms	102 ms	43 ms
+ExactWSEndpoint#setConfirmPersonalDetailsUpdateRequest
+19 ms	74.8 ms	41.6 ms
+ExactWSEndpoint#saveCallResultRequest
+67.6 ms	185 ms	119 ms
+ExactWSEndpoint#isInsuredRequest
+7 ms	40 ms	14.6 ms
+ExactWSEndpoint#isFinProtectRequest
+10 ms	34.6 ms	19.9 ms
+ExactWSEndpoint#isDebtRestructuringAllowedRequest
+154 ms	1.80 s	355 ms
+ExactWSEndpoint#getTerritoriesRequest
+18.0 ms	18.0 ms	18.0 ms
+ExactWSEndpoint#getTemplatesRequest
+7 ms	26 ms	11.9 ms
+ExactWSEndpoint#getStatusHistoryRequest
+8 ms	26.2 ms	14.4 ms
+ExactWSEndpoint#getRegisterRequest
+33 ms	4.95 s	795 ms
+ExactWSEndpoint#getRecoveriesRequest
+288 ms	1.66 s	517 ms
+ExactWSEndpoint#getPersonTimeZoneRequest
+8 ms	30.7 ms	16.6 ms
+ExactWSEndpoint#getPersonCreditsCountInExactRequest
+23.5 ms	125 ms	55.0 ms
+ExactWSEndpoint#getPaymentHistoryRequest
+97.4 ms	891 ms	341 ms
+ExactWSEndpoint#getOperatorsRequest
+25.3 ms	25.3 ms	25.3 ms
+ExactWSEndpoint#getOperatorRightsRequest
+14.4 ms	14.4 ms	14.4 ms
+ExactWSEndpoint#getNextMethodsRequest
+8 ms	21.9 ms	12.7 ms
+ExactWSEndpoint#getMethodsRequest
+21 ms	50.2 ms	28.6 ms
+ExactWSEndpoint#getMethodResultHistoryRequest
+8 ms	32.4 ms	15.3 ms
+ExactWSEndpoint#getMethodHistoryRequest
+7 ms	24.5 ms	11.5 ms
+ExactWSEndpoint#getMethodAssignHistoryRequest
+42 ms	317 ms	107 ms
+ExactWSEndpoint#getLastPhoneTypeRequest
+73 ms	712 ms	168 ms
+ExactWSEndpoint#getGoodsListRequest
+8 ms	149 ms	32.6 ms
+ExactWSEndpoint#getExactCreditTypesRequest
+8.70 ms	8.70 ms	8.70 ms
+ExactWSEndpoint#getEmployerContactsRequest
+23.2 ms	88.6 ms	46.7 ms
+ExactWSEndpoint#getDebtsRequest
+214 ms	1.34 s	463 ms
+ExactWSEndpoint#getClientContactsRequest
+30 ms	126 ms	64.6 ms
+ExactWSEndpoint#getCallResultsRequest
+143 ms	2.12 s	358 ms
+ExactWSEndpoint#getCallResultsMatrixRequest
+2.90 s	2.90 s	2.90 s
+ExactWSEndpoint#getCallEventsRequest
+273 ms	4.17 s	781 ms
+ExactWSEndpoint#getBlockHistoryRequest
+18.2 ms	127 ms	37.2 ms
+ExactWSEndpoint#getBlankHistoryRequest
+6 ms	23 ms	10.9 ms
+ExactWSEndpoint#getBatchTypesRequest
+47.6 ms	47.6 ms	47.6 ms
+ExactWSEndpoint#findRecoveriesRequest
+169 ms	2.88 s	301 ms
+EventWSEndpoint#searchEventsRequest
+15 ms	1.19 s	81.8 ms
+EventWSEndpoint#createEventRequest
+42 ms	364 ms	166 ms
+CustomerWSEndpoint#setDocumentsRequest
+662 ms	4.91 s	1.10 s
+CustomerWSEndpoint#setCustomerDataShortRequest
+402 ms	2.29 s	604 ms
+CustomerWSEndpoint#setCustomerDataRequest
+558 ms	3.86 s	1.10 s
+CustomerWSEndpoint#setCustomerDataQuickRequest
+334 ms	472 ms	386 ms
+CustomerWSEndpoint#setCustomerDataQuick2Request
+727 ms	2.97 s	1.21 s
+CustomerWSEndpoint#identifyCustomerShortRequest
+458 ms	5.65 s	1.15 s
+CustomerWSEndpoint#getCustomerShortRequest
+5 ms	65.5 ms	14.2 ms
+CustomerWSEndpoint#getCustomerRequest
+184 ms	426 ms	249 ms
+CustomerWSEndpoint#getCustomerQuickRequest
+17 ms	459 ms	163 ms
+CustomerWSEndpoint#getCustomerMobileContactsRequest
+11 ms	203 ms	45 ms
+CustomerWSEndpoint#getCustomerDataRequest
+402 ms	676 ms	522 ms
+CustomerWSEndpoint#getCustomerContactsRequest
+10 ms	31 ms	17.3 ms
+CustomerWSEndpoint#getCustomerAllMobileContactsRequest
+24.8 ms	228 ms	89.9 ms
+CustomerUpdateWSEndpoint#confirmCustomerUpdateRequest
+29 ms	82 ms	43.5 ms
+CustomerUpdWSEndpoint#notifyCustomerUpdRequest
+28.2 ms	111 ms	58.5 ms
+CreditWSEndpoint#getCreditsRequest
+8.80 ms	2.08 s	72.4 ms
+CreditCardWSEndpoint#getCreditCardsRequest
+146 ms	253 ms	194 ms
+CreditCardWSEndpoint#getCreditCardDetailRequest
+209 ms	3.15 s	816 ms
+ContractWSEndpoint#signContractRequest
+596 ms	11.2 s	2.11 s
+ContractWSEndpoint#setRepaymentMethodRequest
+24 ms	5.96 s	228 ms
+ContractWSEndpoint#setNoNameCardRequest
+45 ms	322 ms	117 ms
+ContractWSEndpoint#setExpeditorAsCurrentUserRequest
+148 ms	1.02 s	345 ms
+ContractWSEndpoint#set2NdBlockFilledRequest
+21 ms	21 ms	21 ms
+ContractWSEndpoint#searchContractsLiteRequest
+12.5 ms	102 ms	31.5 ms
+ContractWSEndpoint#runSaveDuplicatesRequest
+15 ms	5.24 s	187 ms
+ContractWSEndpoint#prepareProcessedDuplicatesRequest
+13 ms	613 ms	46.6 ms
+ContractWSEndpoint#insertContractFlagRequest
+39 ms	65 ms	52 ms
+ContractWSEndpoint#getPartnerProductRequest
+56 ms	82.2 ms	69.1 ms
+ContractWSEndpoint#getOnlineCreditContractRequest
+230 ms	638 ms	339 ms
+ContractWSEndpoint#getInsuranceRequest
+21 ms	1.75 s	163 ms
+ContractWSEndpoint#getCustomerFinancialStatusRequest
+163 ms	724 ms	363 ms
+ContractWSEndpoint#getContractsReSignedRequest
+7 ms	188 ms	32.2 ms
+ContractWSEndpoint#getContractsForReSignRequest
+8.30 ms	76 ms	23.9 ms
+ContractWSEndpoint#getContractServicesAvailabilityRequest
+175 ms	1.53 s	601 ms
+ContractWSEndpoint#getContractRequest
+284 ms	763 ms	411 ms
+ContractWSEndpoint#getContractRepaymentTypesRequest
+68 ms	382 ms	134 ms
+ContractWSEndpoint#getContractFlagHistoryRequest
+8 ms	199 ms	31.9 ms
+ContractWSEndpoint#getContractDetailByCuidRequest
+956 ms	12.3 s	4.16 s
+ContractWSEndpoint#getContractByCuidRequest
+177 ms	1.25 s	503 ms
+ContractWSEndpoint#getContractAggregateInfoRequest
+46 ms	4.72 s	461 ms
+ContractWSEndpoint#getAllOnlineCreditInsuranceRequest
+19.9 ms	180 ms	110 ms
+ContractStatementWSEndpoint#getStatementSetupRequest
+1.65 s	2.26 s	1.86 s
+ContractReportWSEndpoint#printReportsRequest
+1.28 s	2.85 s	1.96 s
+ContractReportWSEndpoint#getAvailableReportTypesRequest
+484 ms	990 ms	687 ms
+ContractPaymentWSEndpoint#confirmContractRepaymentNotificationRequest
+52 ms	261 ms	136 ms
+ContractPaymentWSEndpoint#checkPaymentDateRequest
+36 ms	3.50 s	170 ms
+ContractPaymentWSEndpoint#checkContractForRepaymentRequest
+11 ms	4.17 s	137 ms
+ContractPaymentWSEndpoint#calculateContractRepaymentRequest
+277 ms	1.88 s	687 ms
+ContractOffersWSEndpoint#setClientPreferencesRequest
+12 ms	193 ms	67.1 ms
+ContractOffersWSEndpoint#getClientPreferencesRequest
+23.2 ms	78.8 ms	42.9 ms
+ContractApplicationWSEndpoint#setNextApprovalStageRequest
+10 ms	129 ms	28.9 ms
+ContractApplicationWSEndpoint#setNamedCardDeliveryAddressRequest
+10 ms	66 ms	23.0 ms
+ContractApplicationWSEndpoint#searchOriginatorsRequest
+5 ms	63 ms	12.1 ms
+ContractApplicationWSEndpoint#recalcExtendedQuickNoResultRequest
+2.05 s	3.62 s	2.48 s
+ContractApplicationWSEndpoint#proceedExtendedQNWithIncomeRequest
+51 ms	672 ms	176 ms
+ContractApplicationWSEndpoint#proceedExtendedQNRequest
+37.4 s	57.8 s	46.0 s
+ContractApplicationWSEndpoint#proceedContractRequest
+42.8 s	52.2 s	47.8 s
+ContractApplicationWSEndpoint#getScanCopyStatusRequest
+5 ms	98.8 ms	16.7 ms
+ContractApplicationWSEndpoint#getIncomeConfirmationRequest
+17 ms	204 ms	58.9 ms
+ContractApplicationWSEndpoint#getInactiveExtQNRequest
+50.6 ms	208 ms	121 ms
+ContractApplicationWSEndpoint#getExtendedQuickNoResultRequest
+76.8 ms	379 ms	178 ms
+ContractApplicationWSEndpoint#getExtQNByUserRequest
+313 ms	2.13 s	863 ms
+ContractApplicationWSEndpoint#doExtendedQuickNoRequest
+26.0 s	49.1 s	38.7 s
+ContractApplicationWSEndpoint#createContractRequest
+23.3 s	62.8 s	39.9 s
+ContractApplicationWSEndpoint#checkAvailablePosOnRDRequest
+15 ms	411 ms	127 ms
+ContractAppendixWSEndpoint#searchContractsRequest
+486 ms	8.99 s	4.37 s
+ContractAppendixWSEndpoint#getAppendixesRequest
+15 ms	1.16 s	88.7 ms
+CloseRdApplicationWSEndpoint#RunCloseContractJobRequest
+12 ms	16 ms	14 ms
+ClientWSEndpoint#searchClientsRequest
+365 ms	904 ms	670 ms
+ClientWSEndpoint#searchClientRequest
+276 ms	33.8 s	5.91 s
+ClientWSEndpoint#getFlagsRequest
+140 ms	262 ms	164 ms
+ClientWSEndpoint#getClientInfoByPassportRequest
+256 ms	977 ms	534 ms
+ClientWSEndpoint#getClientInfoByCUIDRequest
+332 ms	917 ms	495 ms
+ClientCreditsWSEndpoint#getClientCreditsRequest
+1.65 s	11.8 s	3.30 s
+ClientCreditsWSEndpoint#getClientCreditContractsRequest
+1.11 s	13.0 s	2.24 s
+CardWSEndpoint#setFeesRequest
+42 ms	1.01 s	116 ms
+CardWSEndpoint#sendStatusChangesToTWRequest
+488 ms	676 ms	562 ms
+CardWSEndpoint#sendChangeBalancesRequest
+16 ms	3.19 s	203 ms
+CardWSEndpoint#searchCardTypeDetailsRequest
+5 ms	43 ms	12.2 ms
+CardWSEndpoint#processChangeBalanceResultsRequest
+66 ms	286 ms	103 ms
+CardWSEndpoint#personalizeNNCardsRequest
+17 ms	151 ms	45.7 ms
+CardWSEndpoint#getFeesRequest
+32 ms	7.05 s	281 ms
+CardWSEndpoint#getClientCreditCardContractsRequest
+247 ms	768 ms	402 ms
+CardWSEndpoint#checkCardRequest
+18 ms	2.71 s	318 ms
+BenefitWSEndpoint#getActionsRequest
+15.8 ms	159 ms	58.3 ms
+ArchiveWSEndpoint#getArchiveCreditRequest
+8.40 ms	74.6 ms	22.8 ms
+AgreementWSEndpoint#getPersonAccountNumberList
+8 ms	151 ms	27.7 ms
+AdmWSEndpoint#updateEmployee
+167 ms	1.02 s	512 ms
+AdmWSEndpoint#storeAllowedTerritories
+6 ms	74 ms	24.2 ms
+AdmWSEndpoint#setHasAdditionalTerritories
+11 ms	3.28 s	310 ms
+AdmWSEndpoint#removeEmployeeFromSellerplace
+24 ms	141 ms	64.4 ms
+AdmWSEndpoint#insertEmployee
+349 ms	1.98 s	747 ms
+AdmWSEndpoint#getNewUserName
+9 ms	25 ms	16 ms
+AdmWSEndpoint#getEmployeeSimpleByFilter
+13 ms	76.6 ms	30.2 ms
+AdmWSEndpoint#getAllowedTerritoriesForTree
+3 ms	1.61 s	337 ms
+AdmWSEndpoint#generateNewPassword
+4 ms	14 ms	7.16 ms
+AdmWSEndpoint#findEmployeeById
+17.4 ms	45.0 ms	26.6 ms
+AdmWSEndpoint#assignEmployeeToSellerplace
+27 ms	2.56 s	287 ms
+AddressWSEndpoint#validateAddress
+13.4 ms	49.6 ms	25.4 ms
+AddressWSEndpoint#getKLADRTypes
+12 ms	48.4 ms	22.0 ms
+AddressWSEndpoint#getKLADREntities
+17 ms	51 ms	31.7 ms
+AddressWSEndpoint#getHistoricalAddresses
+18 ms	154 ms	52.7 ms
+AddressWSEndpoint#getCountries
+16 ms	50 ms	25.7 ms
+AddressWSEndpoint#getAddresses
+17.4 ms	126 ms	42.6 ms
+AddressWSEndpoint#getAddressByTaxCode
+5 ms	36 ms	11.7 ms

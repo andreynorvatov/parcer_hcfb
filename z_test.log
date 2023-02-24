@@ -1,0 +1,179 @@
+26.07.2022 08:23:48: INFO - Begin ...
+26.07.2022 08:23:48: INFO - DB name list: CIF
+26.07.2022 08:23:48: INFO - cx_Orcale client initialization successful
+26.07.2022 08:23:48: INFO - Start generate AWR for DB CIF
+26.07.2022 08:23:48: INFO - DB CIF credentials is valid
+26.07.2022 08:26:37: INFO - Begin ...
+26.07.2022 08:26:37: INFO - DB name list: CIF
+26.07.2022 08:26:37: INFO - cx_Orcale client initialization successful
+26.07.2022 08:26:37: INFO - Start generate AWR for DB CIF
+26.07.2022 08:26:37: INFO - DB CIF credentials is valid
+26.07.2022 08:26:38: INFO - CIF snap's selected successful, test_snap_begin 318439, test_snap_end 318445
+26.07.2022 08:27:44: INFO - CIF AWR data selected successful
+26.07.2022 08:27:44: INFO - File 'data/CIF85_AWR_HOMER_5852_vs_5856.html' start writing . . .
+26.07.2022 08:27:44: INFO - File 'data/CIF85_AWR_HOMER_5852_vs_5856.html' writing successful
+26.07.2022 08:27:44: INFO - end at 66.58 sec ...
+26.07.2022 08:30:29: INFO - Begin ...
+26.07.2022 08:30:29: INFO - DB name list: DTS, LAP, SCAN, HOMER
+26.07.2022 08:30:29: INFO - cx_Orcale client initialization successful
+26.07.2022 08:30:29: INFO - Start generate AWR for DB DTS
+26.07.2022 08:30:29: INFO - DB DTS credentials is valid
+26.07.2022 08:30:30: INFO - DTS snap's selected successful, test_snap_begin 180343, test_snap_end 180349
+26.07.2022 08:31:05: INFO - DTS AWR data selected successful
+26.07.2022 08:31:05: INFO - File 'data/DTS85_AWR_HOMER_5852_vs_5856.html' start writing . . .
+26.07.2022 08:31:05: INFO - File 'data/DTS85_AWR_HOMER_5852_vs_5856.html' writing successful
+26.07.2022 08:31:05: INFO - Start generate AWR for DB LAP
+26.07.2022 08:31:05: INFO - DB LAP credentials is valid
+26.07.2022 08:31:06: INFO - LAP snap's selected successful, test_snap_begin 326828, test_snap_end 326834
+26.07.2022 08:32:01: INFO - LAP AWR data selected successful
+26.07.2022 08:32:01: INFO - File 'data/LAP85_AWR_HOMER_5852_vs_5856.html' start writing . . .
+26.07.2022 08:32:01: INFO - File 'data/LAP85_AWR_HOMER_5852_vs_5856.html' writing successful
+26.07.2022 08:32:01: INFO - Start generate AWR for DB SCAN
+26.07.2022 08:32:01: INFO - DB SCAN credentials is valid
+26.07.2022 08:32:01: INFO - SCAN snap's selected successful, test_snap_begin 218289, test_snap_end 218295
+26.07.2022 08:32:38: INFO - SCAN AWR data selected successful
+26.07.2022 08:32:38: INFO - File 'data/SCAN85_AWR_HOMER_5852_vs_5856.html' start writing . . .
+26.07.2022 08:32:38: INFO - File 'data/SCAN85_AWR_HOMER_5852_vs_5856.html' writing successful
+26.07.2022 08:32:38: INFO - Start generate AWR for DB HOMER
+26.07.2022 08:32:38: INFO - DB HOMER credentials is valid
+26.07.2022 08:32:39: INFO - HOMER snap's selected successful, test_snap_begin 331807, test_snap_end 331813
+26.07.2022 08:34:13: INFO - HOMER AWR data selected successful
+26.07.2022 08:34:13: INFO - File 'data/HOMER85_AWR_HOMER_5852_vs_5856.html' start writing . . .
+26.07.2022 08:34:13: INFO - File 'data/HOMER85_AWR_HOMER_5852_vs_5856.html' writing successful
+26.07.2022 08:34:13: INFO - end at 223.98 sec ...
+27.07.2022 10:59:27: INFO - Begin ...
+27.07.2022 10:59:27: INFO - DB name list: CIF, DTS, LAP, SCAN, HOMER
+27.07.2022 10:59:27: INFO - cx_Orcale client initialization successful
+27.07.2022 10:59:27: INFO - Start generate AWR for DB CIF
+27.07.2022 10:59:27: INFO - DB CIF credentials is valid
+27.07.2022 10:59:28: INFO - CIF snap's selected successful, test_snap_begin 318685, test_snap_end 318691
+27.07.2022 10:59:58: INFO - CIF AWR data selected successful
+27.07.2022 10:59:58: INFO - File 'data/CIF85_AWR_HOMER_5856_vs_5862.html' start writing . . .
+27.07.2022 10:59:58: INFO - File 'data/CIF85_AWR_HOMER_5856_vs_5862.html' writing successful
+27.07.2022 10:59:58: INFO - Start generate AWR for DB DTS
+27.07.2022 10:59:58: INFO - DB DTS credentials is valid
+27.07.2022 10:59:58: INFO - DTS snap's selected successful, test_snap_begin 180589, test_snap_end 180595
+27.07.2022 11:00:09: INFO - DTS AWR data selected successful
+27.07.2022 11:00:09: INFO - File 'data/DTS85_AWR_HOMER_5856_vs_5862.html' start writing . . .
+27.07.2022 11:00:09: INFO - File 'data/DTS85_AWR_HOMER_5856_vs_5862.html' writing successful
+27.07.2022 11:00:09: INFO - Start generate AWR for DB LAP
+27.07.2022 11:00:09: INFO - DB LAP credentials is valid
+27.07.2022 11:00:09: INFO - LAP snap's selected successful, test_snap_begin 327074, test_snap_end 327080
+27.07.2022 11:00:31: INFO - LAP AWR data selected successful
+27.07.2022 11:00:31: INFO - File 'data/LAP85_AWR_HOMER_5856_vs_5862.html' start writing . . .
+27.07.2022 11:00:31: INFO - File 'data/LAP85_AWR_HOMER_5856_vs_5862.html' writing successful
+27.07.2022 11:00:31: INFO - Start generate AWR for DB SCAN
+27.07.2022 11:00:31: INFO - DB SCAN credentials is valid
+27.07.2022 11:00:31: INFO - SCAN snap's selected successful, test_snap_begin 218535, test_snap_end 218541
+27.07.2022 11:00:56: INFO - SCAN AWR data selected successful
+27.07.2022 11:00:56: INFO - File 'data/SCAN85_AWR_HOMER_5856_vs_5862.html' start writing . . .
+27.07.2022 11:00:56: INFO - File 'data/SCAN85_AWR_HOMER_5856_vs_5862.html' writing successful
+27.07.2022 11:00:56: INFO - Start generate AWR for DB HOMER
+27.07.2022 11:00:56: INFO - DB HOMER credentials is valid
+27.07.2022 11:00:57: INFO - HOMER snap's selected successful, test_snap_begin 332052, test_snap_end 332058
+27.07.2022 11:01:45: INFO - HOMER AWR data selected successful
+27.07.2022 11:01:45: INFO - File 'data/HOMER85_AWR_HOMER_5856_vs_5862.html' start writing . . .
+27.07.2022 11:01:45: INFO - File 'data/HOMER85_AWR_HOMER_5856_vs_5862.html' writing successful
+27.07.2022 11:01:45: INFO - end at 137.78 sec ...
+27.07.2022 11:07:18: INFO - Begin ...
+27.07.2022 11:07:18: INFO - DB name list: CIF, DTS, LAP, SCAN, HOMER
+27.07.2022 11:07:18: INFO - cx_Orcale client initialization successful
+27.07.2022 11:07:18: INFO - Start generate AWR for DB CIF
+27.07.2022 11:07:18: INFO - DB CIF credentials is valid
+27.07.2022 11:07:18: INFO - CIF snap's selected successful, test_snap_begin 318685, test_snap_end 318691
+27.07.2022 11:07:47: INFO - CIF AWR data selected successful
+27.07.2022 11:07:47: INFO - File 'data/CIF85_AWR_HOMER_5856_vs_5862.html' start writing . . .
+27.07.2022 11:07:47: INFO - File 'data/CIF85_AWR_HOMER_5856_vs_5862.html' writing successful
+27.07.2022 11:07:47: INFO - Start generate AWR for DB DTS
+27.07.2022 11:07:47: INFO - DB DTS credentials is valid
+27.07.2022 11:07:47: INFO - DTS snap's selected successful, test_snap_begin 180589, test_snap_end 180595
+27.07.2022 11:07:57: INFO - DTS AWR data selected successful
+27.07.2022 11:07:57: INFO - File 'data/DTS85_AWR_HOMER_5856_vs_5862.html' start writing . . .
+27.07.2022 11:07:57: INFO - File 'data/DTS85_AWR_HOMER_5856_vs_5862.html' writing successful
+27.07.2022 11:07:57: INFO - Start generate AWR for DB LAP
+27.07.2022 11:07:57: INFO - DB LAP credentials is valid
+27.07.2022 11:07:57: INFO - LAP snap's selected successful, test_snap_begin 327074, test_snap_end 327080
+27.07.2022 11:08:17: INFO - LAP AWR data selected successful
+27.07.2022 11:08:17: INFO - File 'data/LAP85_AWR_HOMER_5856_vs_5862.html' start writing . . .
+27.07.2022 11:08:17: INFO - File 'data/LAP85_AWR_HOMER_5856_vs_5862.html' writing successful
+27.07.2022 11:08:17: INFO - Start generate AWR for DB SCAN
+27.07.2022 11:08:17: INFO - DB SCAN credentials is valid
+27.07.2022 11:08:17: INFO - SCAN snap's selected successful, test_snap_begin 218535, test_snap_end 218541
+27.07.2022 11:08:42: INFO - SCAN AWR data selected successful
+27.07.2022 11:08:42: INFO - File 'data/SCAN85_AWR_HOMER_5856_vs_5862.html' start writing . . .
+27.07.2022 11:08:42: INFO - File 'data/SCAN85_AWR_HOMER_5856_vs_5862.html' writing successful
+27.07.2022 11:08:42: INFO - Start generate AWR for DB HOMER
+27.07.2022 11:08:42: INFO - DB HOMER credentials is valid
+27.07.2022 11:08:42: INFO - HOMER snap's selected successful, test_snap_begin 332052, test_snap_end 332058
+27.07.2022 11:09:25: INFO - HOMER AWR data selected successful
+27.07.2022 11:09:25: INFO - File 'data/HOMER85_AWR_HOMER_5856_vs_5862.html' start writing . . .
+27.07.2022 11:09:25: INFO - File 'data/HOMER85_AWR_HOMER_5856_vs_5862.html' writing successful
+27.07.2022 11:09:25: INFO - end at 127.83 sec ...
+29.07.2022 10:49:55: INFO - Begin ...
+29.07.2022 10:49:55: INFO - DB name list: CIF, DTS, LAP, SCAN, HOMER
+29.07.2022 10:49:55: INFO - cx_Orcale client initialization successful
+29.07.2022 10:49:55: INFO - Start generate AWR for DB CIF
+29.07.2022 10:49:55: INFO - DB CIF credentials is valid
+29.07.2022 10:49:56: INFO - CIF snap's selected successful, test_snap_begin 343561, test_snap_end 343567
+29.07.2022 10:51:06: INFO - CIF AWR data selected successful
+29.07.2022 10:51:06: INFO - File 'data/CIF95_AWR_HOMER_5849_vs_5870.html' start writing . . .
+29.07.2022 10:51:06: INFO - File 'data/CIF95_AWR_HOMER_5849_vs_5870.html' writing successful
+29.07.2022 10:51:06: INFO - Start generate AWR for DB DTS
+29.07.2022 10:51:06: INFO - DB DTS credentials is valid
+29.07.2022 10:51:06: INFO - DTS snap's selected successful, test_snap_begin 204253, test_snap_end 204259
+29.07.2022 10:51:18: INFO - DTS AWR data selected successful
+29.07.2022 10:51:18: INFO - File 'data/DTS95_AWR_HOMER_5849_vs_5870.html' start writing . . .
+29.07.2022 10:51:18: INFO - File 'data/DTS95_AWR_HOMER_5849_vs_5870.html' writing successful
+29.07.2022 10:51:18: INFO - Start generate AWR for DB LAP
+29.07.2022 10:51:18: INFO - DB LAP credentials is valid
+29.07.2022 10:51:19: INFO - LAP snap's selected successful, test_snap_begin 351873, test_snap_end 351879
+29.07.2022 10:51:52: INFO - LAP AWR data selected successful
+29.07.2022 10:51:52: INFO - File 'data/LAP95_AWR_HOMER_5849_vs_5870.html' start writing . . .
+29.07.2022 10:51:52: INFO - File 'data/LAP95_AWR_HOMER_5849_vs_5870.html' writing successful
+29.07.2022 10:51:52: INFO - Start generate AWR for DB SCAN
+29.07.2022 10:51:52: INFO - DB SCAN credentials is valid
+29.07.2022 10:51:53: INFO - SCAN snap's selected successful, test_snap_begin 243121, test_snap_end 243127
+29.07.2022 10:52:36: INFO - SCAN AWR data selected successful
+29.07.2022 10:52:36: INFO - File 'data/SCAN95_AWR_HOMER_5849_vs_5870.html' start writing . . .
+29.07.2022 10:52:36: INFO - File 'data/SCAN95_AWR_HOMER_5849_vs_5870.html' writing successful
+29.07.2022 10:52:36: INFO - Start generate AWR for DB HOMER
+29.07.2022 10:52:36: INFO - DB HOMER credentials is valid
+29.07.2022 10:52:36: INFO - HOMER snap's selected successful, test_snap_begin 356545, test_snap_end 356551
+29.07.2022 10:53:15: INFO - HOMER AWR data selected successful
+29.07.2022 10:53:15: INFO - File 'data/HOMER95_AWR_HOMER_5849_vs_5870.html' start writing . . .
+29.07.2022 10:53:16: INFO - File 'data/HOMER95_AWR_HOMER_5849_vs_5870.html' writing successful
+29.07.2022 10:53:16: INFO - end at 200.6 sec ...
+01.08.2022 12:05:39: INFO - Begin ...
+01.08.2022 12:05:39: INFO - DB name list: CIF, DTS, LAP, SCAN, HOMER
+01.08.2022 12:05:40: INFO - cx_Orcale client initialization successful
+01.08.2022 12:05:40: INFO - Start generate AWR for DB CIF
+01.08.2022 12:05:40: INFO - DB CIF credentials is valid
+01.08.2022 12:05:41: INFO - CIF snap's selected successful, test_snap_begin 343700, test_snap_end 343706
+01.08.2022 12:06:57: INFO - CIF AWR data selected successful
+01.08.2022 12:06:57: INFO - File 'data/CIF95_AWR_HOMER_5871_vs_5876.html' start writing . . .
+01.08.2022 12:06:57: INFO - File 'data/CIF95_AWR_HOMER_5871_vs_5876.html' writing successful
+01.08.2022 12:06:57: INFO - Start generate AWR for DB DTS
+01.08.2022 12:06:57: INFO - DB DTS credentials is valid
+01.08.2022 12:06:58: INFO - DTS snap's selected successful, test_snap_begin 204395, test_snap_end 204401
+01.08.2022 12:07:37: INFO - DTS AWR data selected successful
+01.08.2022 12:07:37: INFO - File 'data/DTS95_AWR_HOMER_5871_vs_5876.html' start writing . . .
+01.08.2022 12:07:37: INFO - File 'data/DTS95_AWR_HOMER_5871_vs_5876.html' writing successful
+01.08.2022 12:07:37: INFO - Start generate AWR for DB LAP
+01.08.2022 12:07:37: INFO - DB LAP credentials is valid
+01.08.2022 12:07:37: INFO - LAP snap's selected successful, test_snap_begin 352015, test_snap_end 352021
+01.08.2022 12:09:09: INFO - LAP AWR data selected successful
+01.08.2022 12:09:09: INFO - File 'data/LAP95_AWR_HOMER_5871_vs_5876.html' start writing . . .
+01.08.2022 12:09:09: INFO - File 'data/LAP95_AWR_HOMER_5871_vs_5876.html' writing successful
+01.08.2022 12:09:09: INFO - Start generate AWR for DB SCAN
+01.08.2022 12:09:09: INFO - DB SCAN credentials is valid
+01.08.2022 12:09:09: INFO - SCAN snap's selected successful, test_snap_begin 243263, test_snap_end 243269
+01.08.2022 12:09:56: INFO - SCAN AWR data selected successful
+01.08.2022 12:09:56: INFO - File 'data/SCAN95_AWR_HOMER_5871_vs_5876.html' start writing . . .
+01.08.2022 12:09:56: INFO - File 'data/SCAN95_AWR_HOMER_5871_vs_5876.html' writing successful
+01.08.2022 12:09:56: INFO - Start generate AWR for DB HOMER
+01.08.2022 12:09:56: INFO - DB HOMER credentials is valid
+01.08.2022 12:09:56: INFO - HOMER snap's selected successful, test_snap_begin 356687, test_snap_end 356693
+01.08.2022 12:11:14: INFO - HOMER AWR data selected successful
+01.08.2022 12:11:14: INFO - File 'data/HOMER95_AWR_HOMER_5871_vs_5876.html' start writing . . .
+01.08.2022 12:11:14: INFO - File 'data/HOMER95_AWR_HOMER_5871_vs_5876.html' writing successful
+01.08.2022 12:11:14: INFO - end at 334.89 sec ...
